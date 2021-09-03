@@ -46,7 +46,7 @@ body {
 	text-align: center;
 }
 body {
-     font: 100%/1.4 Verdana, Arial, Helvetica,Times, Times New Roman,sans-serif;
+     font: 100%/1.4 font-family: "Times New Roman", Times, serif;
      background-color: #FFFFFF;
      margin: 0;
      padding: 0;
